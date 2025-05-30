@@ -139,6 +139,10 @@ also allowing to use it offline!
 Copyright © 2025 Spessasus.
 Licensed under the Apache-2.0 License.
 
+### From:
+SpessaSus (Original)
+HACKERXXTHEROBLOXX21 (Remake the site.)
+
 #### Legal
 This project is in no way endorsed or otherwise affiliated with the MIDI Manufacturers Association,
 Creative Technology Ltd. or E-mu Systems, Inc., or any other organization mentioned.
